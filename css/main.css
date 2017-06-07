@@ -3,7 +3,7 @@ body {
   font-family: "Lato"; /* OPTIONAL: Google Fonts - base font */
   font-weight: 300;
   font-size: 16px;
-  color: #555;
+  color: #fff;
 
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -13,7 +13,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway"; /* OPTIONAL: Google Fonts - title font */
   font-weight: 300;
-  color: #333;
+  color: #fff;
 }
 
 /* Paragraph & Typographic */
@@ -148,11 +148,12 @@ a:after {
 /* Global Values */
 
 .desc {
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .desc p {
-  color: #2f2f2f;
+  color: #fff;
+  font-size: 20px;
 }
 
 .desc t {
