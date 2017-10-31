@@ -28,7 +28,7 @@ p {
 
 /* Links */
 a {
-  color: #1CBCAD;
+  color: #ffffff;
   word-wrap: break-word;
 
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -40,7 +40,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #7b7b7b;
+  color: #1cbcad;
   text-decoration: none;
   outline: 0;
 }
@@ -74,7 +74,7 @@ a:after {
   text-align:center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 500px;
+  min-height: 300px;
   width: 100%;
   
   -webkit-background-size: 100%;
