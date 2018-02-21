@@ -1,5 +1,5 @@
 body {
-  background-color: #696969;
+  background-color: #007399;
   font-family: "Lato"; /* OPTIONAL: Google Fonts - base font */
   font-weight: 300;
   font-size: 16px;
@@ -28,7 +28,7 @@ p {
 
 /* Links */
 a {
-  color: #1CBCAD;
+  color: #fff;
   word-wrap: break-word;
 
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -61,6 +61,8 @@ a:after {
   border-top: 1px solid #ccc;
   margin: 1em 0;
   padding: 0;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 /*---------------------------------------------------
